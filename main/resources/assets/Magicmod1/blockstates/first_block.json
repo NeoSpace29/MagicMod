@@ -1,0 +1,11 @@
+{
+  "variants": {
+    "facing=north": { "model": "Magicmod1:block/first_block" },
+    "facing=south": { "model": "Magicmod1:block/first_block", "y": 180 },
+    "facing=west":  { "model": "Magicmod1:block/first_block", "y": 270 },
+    "facing=east":  { "model": "Magicmod1:block/first_block", "y": 90 },
+    "facing=up":  { "model": "Magicmod1:block/first_block", "x": -90 },
+    "facing=down":  { "model": "Magicmod1:block/first_block", "x": 90 }
+
+  }
+}

@@ -1,0 +1,12 @@
+{
+   "parent": "block/orientable",
+   "textures": {
+    "side": "Magicmod1:blocks/first_block_sides",
+    "front": "Magicmod1:blocks/first_block_front",
+     "top": "Magicmod1:blocks/first_block_top"
+
+
+   }
+}
+
+
