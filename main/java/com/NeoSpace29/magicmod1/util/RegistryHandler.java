@@ -4,7 +4,7 @@ import com.NeoSpace29.magicmod1.blocks.BlockItems;
 import com.NeoSpace29.magicmod1.blocks.Demon_Block;
 import com.NeoSpace29.magicmod1.blocks.First_Block;
 import com.NeoSpace29.magicmod1.items.Items;
-import com.NeoSpace29.magicmod1.Magicmod1;
+import com.NeoSpace29.magicmod1.magicmod1;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
 import net.minecraftforge.fml.RegistryObject;
@@ -14,8 +14,8 @@ import net.minecraftforge.registries.ForgeRegistries;
 
  public class RegistryHandler {
 
-     public static final DeferredRegister<Item> ITEMS = new DeferredRegister<>(ForgeRegistries.ITEMS, Magicmod1.MOD_ID);
-     public static final DeferredRegister<Block> BLOCKS = new DeferredRegister<>(ForgeRegistries.BLOCKS, Magicmod1.MOD_ID);
+     public static final DeferredRegister<Item> ITEMS = new DeferredRegister<>(ForgeRegistries.ITEMS, magicmod1.MOD_ID);
+     public static final DeferredRegister<Block> BLOCKS = new DeferredRegister<>(ForgeRegistries.BLOCKS, magicmod1.MOD_ID);
 
 
      public static void init() {

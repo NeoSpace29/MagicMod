@@ -4,7 +4,7 @@ issueTrackerURL="http://my.issue.tracker/" #optional
 [[mods]] #mandatory
 modId="magicmod1" #mandatory
 version="1.15.2-1.0.0" #mandatory
-displayName="MagicMod1" #mandatory
+displayName="Magicmod1" #mandatory
 updateJSONURL="http://myurl.me/" #optional
 displayURL="http://example.com/" #optional
 logoFile="examplemod.png" #optional
