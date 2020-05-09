@@ -1,0 +1,2 @@
+# MagicMod
+repo#1
